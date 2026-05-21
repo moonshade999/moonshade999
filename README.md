@@ -22,4 +22,4 @@ about roofline analysis or memory hierarchies.*
 
 ## Reach me
 
-[email] · [LinkedIn if you want] · [anywhere else you're comfortable]
+[email] · [LinkedIn] · [blog]
