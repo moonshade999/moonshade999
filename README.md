@@ -5,9 +5,10 @@ Working toward kernel and agent engineering at a frontier lab.
 ## What I'm working on now
 
 Building foundations in GPU systems and numerical linear algebra. Currently
-working through *How to Scale Your Model* and the first chapters of
+working through Karpathy's transformer videos and JAX basics as prep, then 
+move on to *How to Scale Your Model* and the first chapters of
 *Programming Massively Parallel Processors*, alongside the GPU MODE lecture
-series.
+series. 
 
 ## What's next
 
