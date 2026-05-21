@@ -13,7 +13,7 @@ series.
 
 Targeting my first Triton implementations — vector add, fused softmax, and
 matmul — by September 2026. 
-Goal for the matmul: within 50% of cuBLAS on whatever GPU I can get my hands on.
+Goal for the matmul: at least 50% of cuBLAS throughput on whatever GPU I can get my hands on.
 
 ## Recent writing
 
